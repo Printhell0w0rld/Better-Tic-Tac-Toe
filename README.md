@@ -1,5 +1,5 @@
 # Better-Tic-Tac-Toe
-Tic-Tac-Toe with Initial screen and result
+Tic-Tac-Toe with Initial screen and Mresult
 ```Python
 import pygame,sys
 import time
