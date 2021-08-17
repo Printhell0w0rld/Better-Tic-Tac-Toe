@@ -1,5 +1,5 @@
 # Better-Tic-Tac-Toe
-Tic-Tac-Toe with Initial screen and Match result, all codes are create by myself, i know the code is a little bit too long, so i aim to reduce the length.
+Tic-Tac-Toe with Initial screen and Match result, all codes are create by myself, and you need Pygame to run the code, so make sure you have already downloaded Pygame. I know the code is a little bit too long, so i aim to reduce the length.
 
 Have Fun!!!!!!!!!!!
 ```Python
